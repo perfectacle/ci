@@ -3,6 +3,5 @@ script: gradle check
 jdk:
   - oraclejdk9
   - oraclejdk8
-  - oraclejdk7
-  - oraclejdk6
-  - oraclejdk5
+  - openjdk7
+  - openjdk6
